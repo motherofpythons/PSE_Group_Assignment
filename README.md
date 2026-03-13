@@ -3,7 +3,7 @@
 ## Project Overview
 - **Project Title:** BabySure
 - **Chosen SDG:** Good Health and Well-Being (SDG 3)
-- **Target Audience:** Parents and Infant Nannies
+- **Target Audience:** Parents, Babysitters, and Infant Nannies
 
 ## Team Members
 - Frank William Penner — Product Owner
