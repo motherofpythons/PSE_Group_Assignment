@@ -5,7 +5,14 @@ Project Title: BabySure
 Chosen SDG: Good Health and Well-Being (SDG 3)
 Target Audience: Parents and Infant Nannies
 
-### Project Description
+## Team Members
+Frank William Penner - Product Owner
+Chew Yen-Mei - Designer
+Phoon Zhi Qing - Scrum Master
+Dylan Matthew Benjamin - Designer
+Probahita Nuzhat - Designer
+
+## Project Description
 BabySure aims to improve child safety by providing real-time monitoring features such as live camera tracking, cry detection through volume monitoring, and body temperature tracking using a built-in thermistor. When unusual activity is detected, the system sends notifications to the user through the mobile application so that caregivers can respond quickly. In addition, the application includes communication and comfort features such as a built-in microphone and speaker that allow caregivers to talk to the baby or play soothing music remotely. 
 
 The application also records historical data such as notification history and temperature readings, allowing users to review the baby's condition over time.
